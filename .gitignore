@@ -1,0 +1,6 @@
+*.nii*
+*.dcm
+*.IMA
+*.DCM
+.DS_Store
+*.png
